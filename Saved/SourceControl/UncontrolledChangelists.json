@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/OneDrive/Desktop/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/51/SAKUBG0H090HAZVC3TP9KD.uasset",
+				"D:/OneDrive/Desktop/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/96/1C9YSQHT0FY0DGB1TB6XN0.uasset",
+				"D:/OneDrive/Desktop/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/2G/1Z3ZPCEA9IX6D78WRWPOK0.uasset",
+				"D:/OneDrive/Desktop/MyFirstGame/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/OneDrive/Desktop/MyFirstGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/OneDrive/Desktop/MyFirstGame/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"D:/OneDrive/Desktop/MyFirstGame/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"D:/OneDrive/Desktop/MyFirstGame/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"D:/OneDrive/Desktop/MyFirstGame/Content/FirstPerson/Blueprints/WBP_UI.uasset"
+			]
+		}
+	]
+}
